@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.tucniaky" name="Tučniaky z Madagaskaru" version="0.0.1" provider-name="Jakubicek222">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary lang="en">Prehrávaj Tučniakov z Madagaskaru v slovenskom dabingu</summary>
+    <description lang="en">Prehráva streamy seri�lu Tučniaky z Madagaskaru v Kodi rozhraní a slovenčine</description>
+    <license>MIT</license>
+    <source></source>
+    <assets>
+      <icon>resources/icon.png</icon>
+      <fanart>resources/fanart.jpg</fanart>
+    </assets>
+    <news>v0.0.1
+- pridana 1. seria serialu v kvalite 624x352</news>
+  </extension>
+</addon>
