@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.tucniaky" name="Tučniaky z Madagaskaru" version="0.0.1" provider-name="Jakubicek222">
+<addon id="plugin.video.tucniaky" name="TuÄniaky z Madagaskaru" version="0.0.1" provider-name="Jakubicek222, skyshowtime tipel">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
   </requires>
@@ -8,8 +8,8 @@
   </extension>
   <extension point="xbmc.addon.metadata">
     <platform>all</platform>
-    <summary lang="en">Prehrávaj Tučniakov z Madagaskaru v slovenskom dabingu</summary>
-    <description lang="en">Prehráva streamy seri�lu Tučniaky z Madagaskaru v Kodi rozhraní a slovenčine</description>
+    <summary lang="en">PrehrÃ¡vaj TuÄniakov z Madagaskaru v slovenskom dabingu</summary>
+    <description lang="en">PrehrÃ¡va streamy seriálu TuÄniaky z Madagaskaru v Kodi rozhranÃ­ a slovenÄine</description>
     <license>MIT</license>
     <source></source>
     <assets>
