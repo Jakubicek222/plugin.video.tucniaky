@@ -11,7 +11,7 @@
     <summary lang="en">PrehrÃ¡vaj TuÄniakov z Madagaskaru v slovenskom dabingu</summary>
     <description lang="en">PrehrÃ¡va streamy seriálu TuÄniaky z Madagaskaru v Kodi rozhranÃ­ a slovenÄine</description>
     <license>MIT</license>
-    <source></source>
+    <source>https://github.com/Jakubicek222/plugin.video.tucniaky</source>
     <assets>
       <icon>resources/icon.png</icon>
       <fanart>resources/fanart.jpg</fanart>
